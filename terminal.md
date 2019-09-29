@@ -5,4 +5,4 @@
 
 1. file.exe - an executable file, or program.
 2. file.txt - a plain text file.
-3. file.png, file.gif, file.jpg - an image.
+3. file.png, file.gif, file.jpg - an image .
