@@ -4,11 +4,9 @@ You can use the [editor on GitHub](https://github.com/danyahas/learning-journal/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Growth mindset person who has growth mindset, when faced mistakes , person will do hard and more time to reach what he want and drives for achievements  and required goals. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
 Syntax highlighted code block
 
 # Header 1
