@@ -5,4 +5,3 @@
 1. Be good.
 2. Discover your skils.
 3. Do not be disappointed if you fail.
-** **go again.
